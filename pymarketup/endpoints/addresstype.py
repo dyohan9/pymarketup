@@ -1,0 +1,3 @@
+
+class AddressType(object):
+    pass
