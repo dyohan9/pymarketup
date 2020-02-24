@@ -1,3 +1,0 @@
-
-class AddressType(object):
-    pass
